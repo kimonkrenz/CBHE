@@ -1,6 +1,6 @@
-#' Altered code from NHSBSA Data Analytics https://github.com/nhsbsa-data-analytics/addressMatchR
-
-# function for GP addess data
+#' Altered code from NHSBSA Data Analytics https://github.com/nhsbsa-data-analytics/nhsbsaR
+#'
+#' Function for GP addess data
 calc_gp_address_single_line_address <- function(
   df,
   include_postcode = FALSE
