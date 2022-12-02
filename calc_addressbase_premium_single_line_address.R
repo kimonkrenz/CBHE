@@ -1,6 +1,7 @@
 #' Altered code from NHSBSA Data Analytics https://github.com/nhsbsa-data-analytics/nhsbsaR
 #'
 #' Function for addressbase premium data
+
 calc_addressbase_premium_single_line_address <- function(
   df,
   include_postcode = FALSE
