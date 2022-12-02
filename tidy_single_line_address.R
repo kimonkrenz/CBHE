@@ -1,6 +1,6 @@
-#' Code based on NHSBSA Data Analytics https://github.com/nhsbsa-data-analytics/addressMatchR
-
-# function to tidy single line address data
+#' Altered code from NHSBSA Data Analytics https://github.com/nhsbsa-data-analytics/nhsbsaR
+#'
+#' Function to tidy single line address data
 tidy_single_line_address <- function(df, col) {
 
 df <- df %>%
