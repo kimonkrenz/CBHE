@@ -1,4 +1,7 @@
-# Reduce Input Tables
+#' Altered code from NHSBSA Data Analytics https://github.com/nhsbsa-data-analytics/nhsbsaR
+#'
+#' Reduce Input Tables
+
 input_addresses <- function(
   df,
   postcode,
